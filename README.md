@@ -26,3 +26,11 @@ Automatically classify news articles as real or fake using NLP and machine learn
 - Trained Logistic Regression classifier
 - Evaluated model (accuracy and classification report)
 - Results saved in `results/` folder
+
+## Day 3 Results
+
+- **Accuracy:**  
+  ![Accuracy](results/accuracy.png)
+
+- **Classification Report:**  
+  ![Classification Report](results/classification_report.png)
