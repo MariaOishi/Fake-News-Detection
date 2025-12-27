@@ -20,8 +20,9 @@ Automatically classify news articles as real or fake using NLP and machine learn
 - Removed common English stopwords
 - Created cleaned text column 'content_clean' for ML
 
-## Future Steps
-- TF-IDF feature extraction
-- Model training (Logistic Regression, Passive Aggressive Classifier)
-- Evaluation (Accuracy, Precision, Recall, F1-score)
-- Prediction system for new articles
+## Day 3 – Feature Extraction & Model Training
+- Converted text into numerical features using TF-IDF
+- Split dataset into train and test sets
+- Trained Logistic Regression classifier
+- Evaluated model (accuracy and classification report)
+- Results saved in `results/` folder
